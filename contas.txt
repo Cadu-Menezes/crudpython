@@ -1,0 +1,4 @@
+1;Cadu;Menezes;500,0
+3;Yasmim;Rodrigues;-100,0
+5;Luiz;Maia;1000,0
+9999;andre;silva;1000.0
